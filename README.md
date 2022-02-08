@@ -3,7 +3,7 @@
 
 ### Current Lists:
 - **Spam Domains**: Domains used in scam YouTube comments
-- **Spam Accounts**: External social media accounts (instagram, telegram, etc) that are mentioned in scam comments as the point of contact for that particular scam. Usually these are scams advertising fake hacking services, free vbucks/robux, etc.
+- **Spam Accounts**: External social media accounts (instagram, telegram, etc) that are mentioned in scam comments as the point of contact for that particular scam. Usually these are scams advertising fake hacking services, free vbucks/robux, jailbreak scams etc.
 - **Spam Threads**: Accounts and Aliases (fake names of people) mentioned as the point of contact specifically in coordinated spam threads, where multiple spam bots pretend to have a conversation and end up 'recommending' the fake services of someone on another platform (usually an 'expert investor', and often involving crypto)
 
 #### For more detailed explanations of each, refer to the [Wiki Here](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki), or view some quick examples below
